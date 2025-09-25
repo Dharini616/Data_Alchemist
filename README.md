@@ -31,6 +31,8 @@ Features
 _Export cleaned data to CSV or Excel
 
 Work Flow of project:-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/6e02f30c-f2c0-4d83-86eb-f04405654df4" />
+
+
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/6e02f30c-f2c0-4d83-86eb-f04405654df4" />
 
 
