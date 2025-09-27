@@ -3,6 +3,7 @@ Data Alchemist is an interactive data analysis assistant built with Streamlit, P
 
 Alchemy is about "transforming raw materials into gold".
 Similarly, this project transforms raw messy data → valuable insights through automation, AI, and machine learning.
+
 Features
 
 -- Upload CSV/Excel Files --
